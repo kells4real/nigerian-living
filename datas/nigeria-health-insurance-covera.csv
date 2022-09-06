@@ -1,0 +1,93 @@
+Geography,Gender,Social security health insurance ,Other employer-base health insurance ,Mutual health organzation or community-base health insurance ,Privately purchased commercial insurance ,Other health insurance ,No health insurance 
+Nigeria,Women,0.0,1.9,0.5,0.2,0.0,97.2
+Urban,Women,0,3.5,0.4,0.2,0.1,95.8
+Rural,Women,0,0.6,0.5,0.2,0,98.6
+North Central,Women,0,2.2,0,0.1,0,97.6
+North East,Women,0,1,0.2,0.1,0,98.7
+North West,Women,0,1.7,1,0.1,0,97.2
+South East,Women,0,2.1,0.5,0.6,0.1,96.8
+South West,Women,0,2.7,0.2,0.2,0.1,96.7
+South South,Women,0.1,2.3,0.4,0.1,0.1,97.1
+FCT Abuja,Women,0,10.1,0.1,0,0,89.8
+Benue,Women,0,0.4,0,0.1,0,99.5
+Kogi,Women,0,1.6,0,0.3,0,98.2
+Kwara,Women,0.1,5.5,0,0,0,94.4
+Nasarawa,Women,0.1,1,0.1,0.1,0,98.8
+Niger,Women,0.1,1.6,0,0.1,0,98.2
+Plateau,Women,0,1.8,0,0.3,0,97.9
+Adamawa,Women,0,0.8,0,0,0,99.2
+Bauchi,Women,0,0.8,0.5,0,0,98.7
+Borno,Women,0.1,2,0,0,0.1,97.8
+Gombe,Women,0,0.3,0,0.4,0,99.3
+Taraba,Women,0,1.1,0,0.1,0,98.8
+Yobe,Women,0,0.6,0.5,0,0,98.9
+Jigawa,Women,0,0.2,0,0,0,99.8
+Kaduna,Women,0.1,3.4,0,0.1,0.1,96.3
+Kano,Women,0,3.7,0.3,0.2,0,95.8
+Katsina,Women,0,0.5,0,0,0,99.4
+Kebbi,Women,0,0.1,1,0,0,98.8
+Sokoto,Women,0,0.2,11,0.6,0,88.3
+Zamfara,Women,0,0.1,0,0,0,99.9
+Abia,Women,0.1,1,3.6,5,0,90.9
+Anambra,Women,0,2.8,0,0,0,97.2
+Ebonyi,Women,0,0.7,0,0,0.1,99.2
+Enugu,Women,0,0.5,0,0,0.2,99.2
+Imo,Women,0,4.6,0,0,0,95.4
+Ekiti,Women,0,1.4,0.1,0.1,0.2,98.2
+Lagos,Women,0,3.7,0.4,0.3,0.1,95.6
+Ogun,Women,0.3,5.9,0,0.5,0,93.3
+Ondo,Women,0,1.5,0.5,0.3,0.1,97.7
+Osun,Women,0,1,0,0.1,0,98.8
+Oyo,Women,0,0.7,0,0.1,0.1,99.1
+Akwa Ibom,Women,0.2,1.9,0.3,0,0,97.7
+Bayelsa,Women,0.1,1,1.1,0,0,97.8
+Cross River,Women,0.3,1,0.7,0,0,98.1
+Delta,Women,0,2,0,0,0,98
+Edo,Women,0,2.5,0.2,0.1,0,97.2
+Rivers,Women,0.1,3.4,0.4,0.2,0.2,95.7
+Nigeria,Men,0,3,0.2,0.1,0.1,96.6
+Urban,Men,0,4.3,0.3,0.1,0.2,95.2
+Rural,Men,0,1.3,0.1,0.1,0.1,98.6
+North Central,Men,0,4,0.2,0.1,0.1,95.5
+North East,Men,0,1.6,0.1,0,0,98.4
+North West,Men,0,2,0,0,0.2,97.8
+South East,Men,0,1.7,0.2,0,0,98
+South West,Men,0,4.7,0.5,0.1,0.3,94.4
+South South,Men,0,1.6,0.1,0.2,0.1,98
+FCT Abuja,Men,0.2,11,0,0,0.2,88.7
+Benue,Men,0,3,0.4,0,0.2,96.4
+Kogi,Men,0,3.8,0,0,0.3,95.9
+Kwara,Men,0,6.9,0.9,0.3,0,91.9
+Nasarawa,Men,0,1.2,0,0.8,0,98
+Niger,Men,0,3.5,0,0,0,96.5
+Plateau,Men,0.2,3.5,0.4,0,0.2,95.8
+Adamawa,Men,0,1.3,0,0,0,98.7
+Bauchi,Men,0,0.7,0,0,0,99.3
+Borno,Men,0,1.8,0.3,0,0,98.2
+Gombe,Men,0.2,0.2,0,0,0,99.6
+Taraba,Men,0,1.5,0,0,0,98.5
+Yobe,Men,0,2.9,0,0,0,97.1
+Jigawa,Men,0,0.2,0,0,0,99.8
+Kaduna,Men,0,3,0,0,0.6,96.4
+Kano,Men,0,6.1,0,0.1,0.4,93.5
+Katsina,Men,0,0,0,0,0,100
+Kebbi,Men,0,1.1,0,0,0,98.9
+Sokoto,Men,0,0.4,0,0,0,99.6
+Zamfara,Men,0,0,0,0,0,100
+Abia,Men,0,3.4,0,0,0.3,96.3
+Anambra,Men,0,0,0,0,0,100
+Ebonyi,Men,0,0.2,0,0,0,99.8
+Enugu,Men,0,1,0.9,0,0,98.1
+Imo,Men,0,4.4,0.4,0,0,95.3
+Ekiti,Men,0,4.4,0,0,0,95.6
+Lagos,Men,0,5.6,0.5,0.1,0,93.8
+Ogun,Men,0,4.9,0,0,0.5,94.6
+Ondo,Men,0,2.3,0.3,0,0.3,97.1
+Osun,Men,0,2.1,0.6,0,0,97.3
+Oyo,Men,0,5.9,1.3,0.2,0.8,91.9
+Akwa Ibom,Men,0,0,0,0,0.4,99.6
+Bayelsa,Men,0.6,5.2,0.9,0,0,93.3
+Cross River,Men,0,2.1,0.3,0,0.3,97.6
+Delta,Men,0,1.6,0,0,0,98.4
+Edo,Men,0,1.5,0,0,0,98.5
+Rivers,Men,0,1.6,0,0.8,0,97.9
